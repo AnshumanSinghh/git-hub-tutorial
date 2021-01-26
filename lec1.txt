@@ -40,7 +40,7 @@ GitHub then we gonna need additional command.
    What it does is, take the changes that currently exists on the GitHub and go ahead and pull the most recent changes 
    down. So that i and my local version of repository have the latest version of all the code that is currently on the GitHub.
 
-# Merge Conflicts: occurs when two or more persond commit changes to for the same repository.
+# Merge Conflicts: occurs when two or more persons commit changes to for the same repository.
 How Merge Conflicts look like:
 <<<<what changes i have made>>>> (at any part of same file)
 =====
@@ -87,3 +87,8 @@ Date: the Date on which the commit was made.
    different branches. And only when we are satisfied, that you know what, this bug is fixed, and this feature is in satisfactory place, 
    then after all of that we can merge these changes back together. So that everything comes back onto this unified master branch that has 
    all of latest code.
+
+>> To create a new Branch:
+10. git checkout -b name_of_new_branch: to create a new branch
+    by using above command we will be at new branch (whose name will be name_of_new_branch) (we can check our branch by "git branch" command)
+
