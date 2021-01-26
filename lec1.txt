@@ -92,3 +92,6 @@ Date: the Date on which the commit was made.
 10. git checkout -b name_of_new_branch: to create a new branch
     by using above command we will be at new branch (whose name will be name_of_new_branch) (we can check our branch by "git branch" command)
 
+   For switching between branches:
+   10.1 git checkout master : to switch to master (our HEADER will now pointing master branch).
+   
