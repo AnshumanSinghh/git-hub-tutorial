@@ -110,5 +110,7 @@ Date: the Date on which the commit was made.
    access the website from any part of the world by using your_user_name.github.io, GitHub has it's 
    own way to render Html, CSS and JavaScript.  
    ADVANTAGE: Easy to update the website all we need to do that is commit the new change, push the change
-              to GitHub and when GitHub detects we have made a push to my GitHub webpages repository then
-              it will update my website that anyone in the world can access by going my_user_name.github.io.
+              to GitHub and when GitHub detects we have made a push to our GitHub webpages repository then
+              it will update our website that anyone in the world can access by going to my_user_name.github.io.
+              
+======================================== END ======================================================
