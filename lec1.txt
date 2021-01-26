@@ -28,3 +28,8 @@ GitHub then we gonna need additional command.
 
 # so to push the changes to server we will use "git push" command, so that they are reflected there:
 4. git push: whatever changes we have made will be pushed to GitHub.
+
+# if we want to all the files that have been changed and commit at same time, the shorthand is git comit -am
+5. git commit -am : commit all the changes that have been made (-am : here a means all and m means also provide a message).
+                    So we can combine "git add step" and "git commit step" into just single step. By saying commit all
+                    of the files that have been changed, then i'll provide a message.
