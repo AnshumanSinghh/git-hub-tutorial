@@ -94,4 +94,21 @@ Date: the Date on which the commit was made.
 
    For switching between branches:
    10.1 git checkout master : to switch to master (our HEADER will now pointing master branch).
-   
+        If merge conflicts occurs then resolve it and then commit the result.
+
+
+# Forking a GitHub repository:
+-- Forking means making a copy of original repository. Suppose there is a public repository on GitHub and we want to make some changes to it but we can't do it 
+   directly, so in order to do that we can Fork that particular repository from there and then we have an original copy of that repository and now we are able to
+   make changes, and if we had make changes and added some extra features or fixed some bugs then we can send the pull request to the owner of this repository, so that 
+   he/ she can merge those changes. 
+
+# GitHub Pages:  
+-- we can create GitHub webpages website using Html, CSS, JavaScript using github.
+   Just cretae a repository with your_user_name.github.io (for ex: Anshumansinghh.github.io for me) 
+   and then write your code and commit changes there and push it to the server. Now anyone can 
+   access the website from any part of the world by using your_user_name.github.io, GitHub has it's 
+   own way to render Html, CSS and JavaScript.  
+   ADVANTAGE: Easy to update the website all we need to do that is commit the new change, push the change
+              to GitHub and when GitHub detects we have made a push to my GitHub webpages repository then
+              it will update my website that anyone in the world can access by going my_user_name.github.io.
