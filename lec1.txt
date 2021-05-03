@@ -8,7 +8,7 @@
                                 (better to say it will take snapshots of it and apply the changes once commited) 
                                 but it will not commited yet. To make it commit we have another command.
 
-# To tell the Get repository to save my snapshot of the current state of the repository keeping track of any changes that 
+# To tell the Git repository to save my snapshot of the current state of the repository keeping track of any changes that 
   has been made to these files that i have added using git add--
 2.2 git commit -m "message" : This message is known as commit message, it is description of what chnages we have made in this 
    most recent commit, because over time as we work on a big project, we are probably going to make lots of commits (means 
