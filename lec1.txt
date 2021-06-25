@@ -38,7 +38,7 @@ GitHub then we gonna need additional command.
   the server then,  in order to do that we use "git pull" command
 6. git pull : to download the latest version of repository from the server
    What it does is, take the changes that currently exists on the GitHub and go ahead and pull the most recent changes 
-   down. So that i and my local version of repository have the latest version of all the code that is currently on the GitHub.
+   down. So that me and my local version of repository have the latest version of all the code that is currently on the GitHub.
 
 # Merge Conflicts: occurs when two or more persons commit changes to for the same repository.
 How Merge Conflicts look like:
